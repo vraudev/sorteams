@@ -1,6 +1,0 @@
-@VRAU.Sorteams.WebApi_HostAddress = http://localhost:5195
-
-GET {{VRAU.Sorteams.WebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
